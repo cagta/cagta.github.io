@@ -3,7 +3,7 @@ title_left    : "cag"
 title_right   : "ta" # default: ""
 description   : "blog"
 keywords      : "cagatay, tanyildiz, cagta, developer, software, engineer"
-url           : https://cagta.github.io/ # site url
+url           : https://cagta.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
