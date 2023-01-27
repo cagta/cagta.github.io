@@ -1,0 +1,42 @@
+{%- include head-matter.html -%}
+
+<body>
+
+<main class="index">
+
+<header>
+	<h1 class="index-title">{{ site.title }}</h1> 
+		<nav>
+			<a href="/about" title="about">about</a>&nbsp;|&nbsp;<a href="/blog" title="blog">blog</a>&nbsp;|&nbsp;<a href="/contact" title="contact">contact</a>&nbsp;|&nbsp;<a href="/notes" title="notes">notes</a>&nbsp;
+			<!-- |&nbsp; <a href="/portfolio" title="portfolio">Portfolio</a> -->
+		</nav>
+</header>
+
+{{ content }}
+
+<!--
+<h2>Latest posts</h2>
+{%- assign i = 0 -%}
+{% assign display-post-type = true %}
+
+{%- for post in site.posts -%}
+	{%- unless post.categories contains "rss-club" or post.categories contains "unlisted"-%}
+		{%- assign i = i | plus: 1 -%}
+		{%- include blog-listing.html -%}
+	{% endunless %}
+	
+	{%- if i == 3 -%}
+		{%- break -%}
+	{%- endif -%}
+
+{% endfor %}
+
+<p><a href="/blog" class="internal-link">All posts →</a></p>-->
+
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

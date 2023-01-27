@@ -1,57 +1,69 @@
-# Site settings
-title_left    : "cag"
-title_right   : "ta" # default: ""
-description   : "blog"
-keywords      : "cagatay, tanyildiz, cagta, developer, software, engineer"
-url           : https://cagataytanyildiz.com # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+# Customize these with your info 
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+title: "çağatay tanyildiz" 
+author: Your Name
+description: "çağatay's personal website"
+github: cagta
+timezone: Europe/Amsterdam
+url: https://cagataytanyildiz.com
+language: en_US
 
-source      : ./
-destination : ./_site
+# social images
 
-# Sass configuration
-sass:
-  sass_dir  : assets/scss
-  style     : compressed # expanded
+favicon: /static/social-media-images/borshch-and-salo-favicon.jpeg
+twitter: "@good-luck-twitter-existing-in-a-few-years"
+social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
+twitter-card-image: do.jpg
+iOS-icon: /static/social-media-images/borshch-and-salo-ios.jpeg
 
-# Author settings
-author:
-  name     : "cagatay"
+# leave these unless you are more familiar with jekyll settings
+
+highlighter: rouge
+markdown: kramdown
+parse_block_html: false
+show_drafts: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      blogpost: true
+      layout: post
+      og-type: article
+      social-media-image: false
+    
+  -    
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page 
+      social-media-image: false   
+
+  -    
+    scope:
+      path: ""
+      type: "no-index"
+    values:
+      layout: page
+      no-index: true
+      social-media-image: false
+
+collections:
+  pages:
+    output: true
+  no-index:
+    output: true
+  unlisted:
+    output: true
 
 plugins:
-  - jekyll-sitemap
-  - bourbon
-  - jekyll-paginate
+  - jekyll-feed
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-
-exclude:
-  - "gulp"
-  - "node_modules"
-  - "bower"
-  - "bower_components"
-  - "config.rb"
-  - "src"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - ".rvmrc"
-  - ".rbenv-version"
-  - "package.json"
-  - "gulpfile.js"
-  - "README.md"
-  - "Rakefile"
-  - "changelog.md"
-  - "script"
-  - "vendor"
-  - "thinkspace.gemspec"
+feed:
+  posts_limit: 25
+  categories:
+    - essays
+    - notes
+    - now

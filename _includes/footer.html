@@ -1,5 +1,6 @@
-<footer class="site-footer">
-  <div class="container">
-    <small class="block">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} &middot; &lt;/&gt; Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/heiswayi/thinkspace">Thinkspace theme</a></small>
-  </div>
+<footer>
+	<a href="#">top &#8593;</a>
+	{%- unless page.url == "/" -%}<a href="/" title="home">home</a>&nbsp;{%- endunless -%}
+	{%- unless page.url == "/contact" -%}<a href="/contact" title="contact">contact</a>&nbsp;{%- endunless -%}
+	{%- unless page.url == "/about" -%}<a href="/rss" title="rss">rss&nbsp;</a>{%- endunless -%}
 </footer>
