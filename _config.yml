@@ -10,11 +10,11 @@ language: en_US
 
 # social images
 
-favicon: /static/social-media-images/borshch-and-salo-favicon.jpeg
+favicon: /static/social-media-images/favicon-32x32.png
 twitter: "@good-luck-twitter-existing-in-a-few-years"
-social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
-twitter-card-image: do.jpg
-iOS-icon: /static/social-media-images/borshch-and-salo-ios.jpeg
+social-media-image-url: /static/social-media-images/favicon-32x32.png
+twitter-card-image: favicon-32x32.png
+iOS-icon: /static/social-media-images/favicon-32x32.png
 
 # leave these unless you are more familiar with jekyll settings
 
