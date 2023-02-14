@@ -11,4 +11,6 @@ this is the 9th day of the [disaster](https://en.wikipedia.org/wiki/2023_turkey%
 
 i'd like to share following quote from it which i can relate a lot. this is how i define my profession:
 
-<p class="callout">"This then is programming, both a tar pit in which many efforts have floundered and a creative activity with joys and woes all its own. For many, the joy far outweigh the woes, and for them the remainder of this book will attempt to lay some boardwalks across the tar."[The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) pg 9.</p>
+<p class="callout">"This then is programming, both a tar pit in which many efforts have floundered and a creative activity with joys and woes all its own. For many, the joy far outweigh the woes, and for them the remainder of this book will attempt to lay some boardwalks across the tar."[1]</p>
+
+[1](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) The Mythical Man-Month, pg 9.
