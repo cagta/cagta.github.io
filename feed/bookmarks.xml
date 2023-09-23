@@ -1,1 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://cagataytanyildiz.com/feed/bookmarks.xml" rel="self" type="application/atom+xml" /><link href="https://cagataytanyildiz.com/" rel="alternate" type="text/html" /><updated>2023-09-23T21:35:04+02:00</updated><id>https://cagataytanyildiz.com/feed/bookmarks.xml</id><title type="html">çağatay tanyildiz | Bookmarks</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed/bookmarks.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-09-23T23:54:38+02:00</updated><id>http://localhost:4000/feed/bookmarks.xml</id><title type="html">çağatay tanyildiz | Bookmarks</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/1" rel="alternate" type="text/html" title="" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/bookmarks/1</id><content type="html" xml:base="http://localhost:4000/bookmarks/1">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;http://patrickhalina.com/posts/systems-design-interview-guide/&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;http://patrickhalina.com/img/systems_design/systems_design_bridge.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;http://patrickhalina.com/posts/systems-design-interview-guide/&quot; target=&quot;_blank&quot;&gt;Systems Design Interview Guide · Patrick Halina&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Systems design interviews are hard! Here's my high level advice for distributed systems and machine learning design questions.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//patrickhalina.com&quot; target=&quot;_blank&quot;&gt;patrickhalina.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Systems Design Interview Guide · Patrick Halina Systems design interviews are hard! Here's my high level advice for distributed systems and machine learning design questions. patrickhalina.com</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/2" rel="alternate" type="text/html" title="" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/bookmarks/2</id><content type="html" xml:base="http://localhost:4000/bookmarks/2">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://time.com/6303701/a-rape-in-mississippi/&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://api.time.com/wp-content/uploads/2023/08/abortion-mississippi-girl-health-01.jpg?quality=85&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://time.com/6303701/a-rape-in-mississippi/&quot; target=&quot;_blank&quot;&gt;She Just Had a Baby. Soon, She'll Start 7th Grade.&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;After the fall of Roe v. Wade, some travel hundreds of miles to get abortions. This is the story of a girl who couldn't&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//time.com&quot; target=&quot;_blank&quot;&gt;time.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">She Just Had a Baby. Soon, She'll Start 7th Grade. After the fall of Roe v. Wade, some travel hundreds of miles to get abortions. This is the story of a girl who couldn't time.com</summary></entry></feed>
