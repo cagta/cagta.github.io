@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html  lang="en-US" >
+
+<head>
+
+    
+    <meta charset="UTF-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>git tag; lightweight or annotated?</title>
+    <link rel='stylesheet' type='text/css' href='/css/main.css'>
+    <link rel='stylesheet' type='text/css' href='/css/code.css'>
+    <meta name="description" content="use git
+    ">
+    <meta name="author" content="çağatay">
+    <link rel="canonical" href="https://cagataytanyildiz.com/blog/git-tag-lightweight-or-annotated">
+    <meta name="generator" content="Jekyll" />
+    
+    <!-- OG metadata --> 
+    <meta property="og:title" content="git tag; lightweight or annotated?"/>
+    <meta property="og:description" content="use git">
+        
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://cagataytanyildiz.com/blog/git-tag-lightweight-or-annotated"/>
+    <meta property="og:site_name" content="çağatay tanyildiz">
+
+    <!-- Twitter Card --> 
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:creator" content="@good-luck-twitter-existing-in-a-few-years">
+    <meta name="twitter:title" content="git tag; lightweight or annotated?"/>
+    <meta name="twitter:description" content="use git"/>
+    <meta property="og:url" content="https://cagataytanyildiz.com/blog/git-tag-lightweight-or-annotated" />
+    <meta name="twitter:image" content="favicon-32x32.png"/>
+
+    <!-- favicon and iOS shortcut icon -->
+    <link rel="icon" href="/static/social-media-images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/social-media-images/favicon-32x32.png">
+
+    <!-- RSS feed --> 
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="çağatay tanyildiz" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/notes.xml" title="çağatay tanyildiz | notes" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/essays.xml" title="çağatay tanyildiz | essays" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/now.xml" title="çağatay tanyildiz | now" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/bookmarks.xml" title="çağatay tanyildiz | bookmarks" />
+
+    
+    
+</head><main>
+<article>
+
+<header>
+	<h1 class="post-title">git tag; lightweight or annotated?</h1>
+	<p class="post-author-and-time">
+	<a href="/" title="home" rel="author" class="internal-link">çağatay tanyıldız</a>&nbsp;&middot;&nbsp;<time datetime="2021-06-28">june 28th, 2021</time></p>
+</header><blockquote>
+  <p><em><strong>tldr;</strong> use annotated tags that contain tagger name, email, date, and message. in that way, you can isolate taggers from commit authors. you can see who tagged which commit. otherwise, you would have just the author of the commit. you can also secure them with a gpg sign. on the other hand, lightweight tags are just simple pointers. you may prefer to use them privately to put a pinpoint on your commit history.</em></p>
+</blockquote>
+
+<p>git has two different tag types: lightweight and annotated. at first sight, you may think there is no problem using them interchangeably. however, the git commands like ‘git describe’ take annotated tags by default. of course, you can use related flags and bypass this behavior like ‘git describe - tags’. however, let me show you why you may prefer annotated tags over the lightweight ones. the most common scenario for using tags is releasing a new version.</p>
+
+<p>consider this scenario, you are a newbie in a team of 10 developers. somehow you need to investigate one of the older versions of your project because of a problem at production. and you saw that this code should not ship in the first place. at that time, you may want to be sure about your judgment. so who should you talk to? this is where things get interesting. if the release tag is lightweight, you will see something like this.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git show v1.4
+commit ca82a6dff817ec66f44342007202690a58967412
+author: cagatay tanyildiz &lt;cagta@mail.com&gt;
+<span class="nb">date</span>:   fri 25 21:52:11 2021 <span class="nt">-0300</span>
+   
+   change version number
+</code></pre></div></div>
+
+<p>which is quite unclear who made that tagging? yes, you can still see the author of a specific commit. but do you remember all of the auditors of your codes? i don’t think so. so the first advantage of annotated tags is detailed information which is absent in lightweight tags and isolating the tagger of the commit from the author of the commit. in that way, you can see who made this commit and who tagged it as a valid production commit.</p>
+
+<p>let’s think of another way. you built a jenkins pipeline that takes all the tags from your repository and changes production code each time it detects a release tag. if you built your system on top of lightweight tags, you should think twice. how you are traceback your release even if you are not sure who approved it? again, author/auditor isolation is needed.</p>
+
+<p>lastly, you may have a customer who wants to ensure that they pull in a verified set of changes onto their platforms. in that case, you need to gpg sign each of your release tags. this is only applicable to annotated tags because of their information storing capacity. more specifically, they contain the tagger name, email, date, and the message. also, they can be signed with gpg. check ‘whodunnit for paranoid people’ section of this article for detail. an annotated tag will look like this.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git show v1.2
+tag v1.2
+tagger: cagatay tanyildiz &lt;cagta@mail.com&gt;
+<span class="nb">date</span>:   fri 25 22:12:11 2021 <span class="nt">-0300</span>
+
+version 1.2
+commit ca82a6dff817ec66f44342007202690a58967412
+author: cagatay tanyildiz &lt;cagta@mail.com&gt;
+<span class="nb">date</span>:   fri 25 21:52:11 2021 <span class="nt">-0300</span>
+
+    update location list
+...
+</code></pre></div></div>
+
+<p>in conclusion, you should use annotated tags by default which have more detail than lightweight tags, even if you are not sharing them with others. otherwise, you can neither see the tagger nor sign it when you need it.</p>
+
+
+</article></main><footer>
+	<a href="#">top &#8593;</a><a href="/" title="home">home</a>&nbsp;<a href="/contact" title="contact">contact</a>&nbsp;<a href="/rss" title="rss">rss&nbsp;</a></footer></body>
+
+</html>

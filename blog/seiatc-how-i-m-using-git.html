@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html  lang="en-US" >
+
+<head>
+
+    
+    <meta charset="UTF-8">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <title>seiatc - how i'm using git?</title>
+    <link rel='stylesheet' type='text/css' href='/css/main.css'>
+    <link rel='stylesheet' type='text/css' href='/css/code.css'>
+    <meta name="description" content="i can not praise git enough
+    ">
+    <meta name="author" content="çağatay">
+    <link rel="canonical" href="https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-git">
+    <meta name="generator" content="Jekyll" />
+    
+    <!-- OG metadata --> 
+    <meta property="og:title" content="seiatc - how i'm using git?"/>
+    <meta property="og:description" content="i can not praise git enough">
+        
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-git"/>
+    <meta property="og:site_name" content="çağatay tanyildiz">
+
+    <!-- Twitter Card --> 
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:creator" content="@good-luck-twitter-existing-in-a-few-years">
+    <meta name="twitter:title" content="seiatc - how i'm using git?"/>
+    <meta name="twitter:description" content="i can not praise git enough"/>
+    <meta property="og:url" content="https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-git" />
+    <meta name="twitter:image" content="favicon-32x32.png"/>
+
+    <!-- favicon and iOS shortcut icon -->
+    <link rel="icon" href="/static/social-media-images/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/social-media-images/favicon-32x32.png">
+
+    <!-- RSS feed --> 
+    <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="çağatay tanyildiz" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/notes.xml" title="çağatay tanyildiz | notes" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/essays.xml" title="çağatay tanyildiz | essays" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/now.xml" title="çağatay tanyildiz | now" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/bookmarks.xml" title="çağatay tanyildiz | bookmarks" />
+
+    
+    
+</head><main>
+<article>
+
+<header>
+	<h1 class="post-title">seiatc - how i'm using git?</h1>
+	<p class="post-author-and-time">
+	<a href="/" title="home" rel="author" class="internal-link">çağatay tanyıldız</a>&nbsp;&middot;&nbsp;<time datetime="2021-07-24">july 24th, 2021</time></p>
+</header><p>welcome to my third post of software engineer in a telecommunication company series. if you didn’t check the previous posts yet, check the links below.</p>
+
+<ul>
+  <li><a href="/blog/software-engineer-in-a-telecommunication-company/">software engineer in a telecommunication company</a></li>
+  <li><a href="/blog/seiatc-how-i-m-using-python/">seiatc - how i’m using python?</a></li>
+</ul>
+
+<p>my main objective is experimenting with ideas with git. anytime i want, i can easily create a branch and work on my new ideas without breaking the existing codebase. i prefer to use <code class="language-plaintext highlighter-rouge">git checkout -b newbranchname</code>. it is like a combination of <code class="language-plaintext highlighter-rouge">git branch newbranchname</code> and <code class="language-plaintext highlighter-rouge">git checkout newbranchname</code>. after that, i directly jump on the code and try my ideas.</p>
+
+<p>sometimes i come up with another solution while coding the other one. at that time, i am using <code class="language-plaintext highlighter-rouge">git stash</code> to remove all unstaged changes. this command lets me start over and save the current changes. i am using this store as a shelf of possible solutions. <code class="language-plaintext highlighter-rouge">-m</code> flag let you write notes about your stash. if you want to remember what is going on with that version of the changes, i strongly suggest using it. but let’s be honest, most of the time, we are skipping that :) at least, git keeps track of our stashing with a number. keep in mind, it is working like a stack. the first stashed changes place at the bottom of the list.</p>
+
+<p>let’s dig into another use case. in an ideal world, we should have a development and commit plan before starting to code. i will be honest with you. mostly it is not the case. the problem looks too easy to solve then you start typing. just a couple of minutes later, you notice your assumption is wrong. after that minute, you start coming back and forth while trying to enhance your solution. you can guess how this will affect your commit history.</p>
+
+<p><code class="language-plaintext highlighter-rouge">git rebase -i</code> is probably my favorite command. you can divide your commits into smaller chunks, can edit their messages, and can rewrite your whole commit history. i like this feature and widely use it. however, i am only using it if the branch that i am working on is not public. when you use rebase, it will change your commits’ hashes. if you are working on a public one, this means disaster for your colleagues. so be careful about it.</p>
+
+<p>before closing, i would like to mention some valuable resources that can enhance your git knowledge.</p>
+
+<ul>
+  <li><a href="https://youtu.be/mE8DZUfhdm4">simplify writing code with deliberate commits</a>
+    <ul>
+      <li>it suggests 5 practical habits which will make your commits more deliberate.</li>
+    </ul>
+  </li>
+  <li><a href="https://tekin.co.uk/2019/02/a-talk-about-revision-histories">a branch in time</a>
+    <ul>
+      <li>a talk about the revision history.</li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/qyz3jkOBbQY">how github uses github to build github</a>
+    <ul>
+      <li>it is probably the oldest resource that i am sharing with you. but there are still valuable and valid bits of advice in it. on the other hand, do not let the title misleads you. you will find valuable information about git.</li>
+    </ul>
+  </li>
+  <li><a href="https://tekin.co.uk/2020/03/git-commit-verbose-mode">git tip: committing with verbose mode</a>
+    <ul>
+      <li>after i discover verbose mode, i never looked back.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">self marketing warning!! the following article is mine. so i can not be objective about it. :)</code></p>
+<ul>
+  <li><a href="/blog/git-tag-lightweight-or-annotated/">git tag; lightweight or annotated?</a>
+    <ul>
+      <li>let’s you decide which type of tag is more useful for your case.</li>
+    </ul>
+  </li>
+</ul>
+
+
+</article></main><footer>
+	<a href="#">top &#8593;</a><a href="/" title="home">home</a>&nbsp;<a href="/contact" title="contact">contact</a>&nbsp;<a href="/rss" title="rss">rss&nbsp;</a></footer></body>
+
+</html>

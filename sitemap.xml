@@ -1,27 +1,73 @@
----
-layout: none
-permalink: /sitemap.xml
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{{ site.url }}</loc>
+    <loc>https://cagataytanyildiz.com</loc>
   </url>
 
-{% for post in site.posts %}
-{%- unless page.no-index -%}
-  <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
+<url>
+    <loc>https://cagataytanyildiz.com/blog/adding-bookmarks</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/bookmarks/2</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/bookmarks/1</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/trying-to-be-sane</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/re-reading</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/changing-blog-design</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/cycling</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/yeni-evim-hollanda</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-git</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/git-tag-lightweight-or-annotated</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-python</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/software-engineer-in-a-telecommunication-company</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/summary-of-devops-readings</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/recording-podcast</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/the-challenge</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/my-first-firefox-extension</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/the-dilemma-of-the-corporate</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/story-of-the-my-weekend-project</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/localhost-while-vpn-is-on</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/there-should-be</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/feeling-tired</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/who-am-i</loc>
   </url>
-{%- endunless -%}
-{% endfor %}
 
-{% for page in site.pages %}
-{%- unless page.no-index -%}
-  <url>
-    <loc>{{ site.url }}{{ page.url }}</loc>
+<url>
+    <loc>https://cagataytanyildiz.com/about</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/bookmarks</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/contact</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/now</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/now</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/portfolio</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/rss</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/tags</loc>
   </url>
- {%- endunless -%}
-{% endfor %}
 
 </urlset>
