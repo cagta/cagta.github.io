@@ -5,7 +5,8 @@
 
     {% if page.no-index or 
     page.categories contains "rss-club" or 
-    page.categories contains "notes" %}
+    page.categories contains "notes" or
+    page.categories contains "bookmarks" %}
     <meta name="robots" content="noindex" />
     {% endif %}
     <meta charset="UTF-8">
@@ -53,6 +54,8 @@
     <link type="application/atom+xml" rel="alternate" href="/feed/notes.xml" title="{{ site.title }} | notes" />
     <link type="application/atom+xml" rel="alternate" href="/feed/essays.xml" title="{{ site.title }} | essays" />
     <link type="application/atom+xml" rel="alternate" href="/feed/now.xml" title="{{ site.title }} | now" />
+    <link type="application/atom+xml" rel="alternate" href="/feed/bookmarks.xml" title="{{ site.title }} | bookmarks" />
+
     
     {% if page.index %}
     <!-- enter validation codes here --> 

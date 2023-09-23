@@ -11,6 +11,7 @@ permalink: /blog/tags
 <a href="/blog">essays ({{ site.categories.essays | size }})</a>
 <a href="/blog/now">now ({{ site.categories.now | size }})</a>
 <a href="/notes">recent notes</a>
+<a href="/bookmarks">bookmarks</a>
 </div>
 
 <h2 id="tags">tags</h2>

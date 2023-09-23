@@ -12,6 +12,9 @@ i'm just an ordinary human being, software crafter and coffee lover.
 <!-- things that are not long, like blog posts but still have some value in them.
 <a href="/notes" class="internal-link quarter-line-space">Go to my notes&nbsp;→</a> -->
 
+things that I like from internet.
+<a href="/bookmarks" class="internal-link quarter-line-space">my bookmarks&nbsp;→</a>
+
 short updates from me
 <a href="/blog/now" class="internal-link quarter-line-space">my updates&nbsp;→</a>
 

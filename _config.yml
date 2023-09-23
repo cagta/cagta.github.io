@@ -60,6 +60,7 @@ collections:
 
 plugins:
   - jekyll-feed
+  - jekyll-linkpreview
 
 feed:
   posts_limit: 25
@@ -67,3 +68,4 @@ feed:
     - essays
     - notes
     - now
+    - bookmarks
