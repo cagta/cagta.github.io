@@ -69,3 +69,6 @@ feed:
     - notes
     - now
     - bookmarks
+
+include:
+  - .nojekyll
