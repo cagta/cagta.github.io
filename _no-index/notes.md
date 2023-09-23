@@ -3,9 +3,7 @@ title: notes
 layout: page
 nav: custom
 custom-nav: 
-    - '<a href="/about" title="about">about</a>&nbsp;|&nbsp;'
-    - '<a href="/blog" title="blog">blog</a>&nbsp;|&nbsp;'
-    - '<a href="/contact" title="contact">contact</a>'
+    - '<a href="/blog" title="blog">blog</a>&nbsp;&nbsp;'
 permalink: /notes
 ---
 

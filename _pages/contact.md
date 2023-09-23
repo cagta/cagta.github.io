@@ -2,6 +2,9 @@
 title: contact
 description: "email is the best way to get in touch."
 permalink: /contact
+nav: custom
+custom-nav: 
+    - '<a href="/about" title="about">about</a>'
 --- 
 
 <a href="https://www.linkedin.com/in/cagta/">linkedin</a> is the best way to get in touch.

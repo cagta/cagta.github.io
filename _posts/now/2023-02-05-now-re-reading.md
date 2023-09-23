@@ -2,7 +2,7 @@
 title: "re-reading"
 description: "why not?"
 categories: essays now
-permalink: blog/now-changing-blog-design
+permalink: blog/re-reading
 date: 2023-02-05 15:22
 ---
 

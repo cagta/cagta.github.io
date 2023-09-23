@@ -2,7 +2,7 @@
 title: "i'm trying to stay sane."
 description: "sometimes you just don't know how to feel"
 categories: essays now
-permalink: blog/now-trying-to-be-sane
+permalink: blog/trying-to-be-sane
 date: 2023-02-14 21:29
 ---
 

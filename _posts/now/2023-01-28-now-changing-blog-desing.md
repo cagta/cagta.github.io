@@ -2,7 +2,7 @@
 title: "changing blog design"
 description: "yet another day that i'm changing my blog"
 categories: essays now
-permalink: blog/now-changing-blog-design
+permalink: blog/changing-blog-design
 date: 2023-01-28 12:18
 ---
 
