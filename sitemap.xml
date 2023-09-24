@@ -1,73 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000</loc>
+    <loc>https://cagataytanyildiz.com</loc>
   </url>
 
 <url>
-    <loc>http://localhost:4000/blog/adding-bookmarks</loc>
+    <loc>https://cagataytanyildiz.com/bookmarks/4</loc>
   </url><url>
-    <loc>http://localhost:4000/bookmarks/2</loc>
+    <loc>https://cagataytanyildiz.com/bookmarks/3</loc>
   </url><url>
-    <loc>http://localhost:4000/bookmarks/1</loc>
+    <loc>https://cagataytanyildiz.com/blog/adding-bookmarks</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/trying-to-be-sane</loc>
+    <loc>https://cagataytanyildiz.com/bookmarks/2</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/re-reading</loc>
+    <loc>https://cagataytanyildiz.com/bookmarks/1</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/changing-blog-design</loc>
+    <loc>https://cagataytanyildiz.com/blog/trying-to-be-sane</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/cycling</loc>
+    <loc>https://cagataytanyildiz.com/blog/re-reading</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/yeni-evim-hollanda</loc>
+    <loc>https://cagataytanyildiz.com/blog/changing-blog-design</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/seiatc-how-i-m-using-git</loc>
+    <loc>https://cagataytanyildiz.com/blog/cycling</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/git-tag-lightweight-or-annotated</loc>
+    <loc>https://cagataytanyildiz.com/blog/yeni-evim-hollanda</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/seiatc-how-i-m-using-python</loc>
+    <loc>https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-git</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/software-engineer-in-a-telecommunication-company</loc>
+    <loc>https://cagataytanyildiz.com/blog/git-tag-lightweight-or-annotated</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/summary-of-devops-readings</loc>
+    <loc>https://cagataytanyildiz.com/blog/seiatc-how-i-m-using-python</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/recording-podcast</loc>
+    <loc>https://cagataytanyildiz.com/blog/software-engineer-in-a-telecommunication-company</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/the-challenge</loc>
+    <loc>https://cagataytanyildiz.com/blog/summary-of-devops-readings</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/my-first-firefox-extension</loc>
+    <loc>https://cagataytanyildiz.com/blog/recording-podcast</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/the-dilemma-of-the-corporate</loc>
+    <loc>https://cagataytanyildiz.com/blog/the-challenge</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/story-of-the-my-weekend-project</loc>
+    <loc>https://cagataytanyildiz.com/blog/my-first-firefox-extension</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/localhost-while-vpn-is-on</loc>
+    <loc>https://cagataytanyildiz.com/blog/the-dilemma-of-the-corporate</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/there-should-be</loc>
+    <loc>https://cagataytanyildiz.com/blog/story-of-the-my-weekend-project</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/feeling-tired</loc>
+    <loc>https://cagataytanyildiz.com/blog/localhost-while-vpn-is-on</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/who-am-i</loc>
+    <loc>https://cagataytanyildiz.com/blog/there-should-be</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/feeling-tired</loc>
+  </url><url>
+    <loc>https://cagataytanyildiz.com/blog/who-am-i</loc>
   </url>
 
 <url>
-    <loc>http://localhost:4000/about</loc>
+    <loc>https://cagataytanyildiz.com/about</loc>
   </url><url>
-    <loc>http://localhost:4000/blog</loc>
+    <loc>https://cagataytanyildiz.com/blog</loc>
   </url><url>
-    <loc>http://localhost:4000/bookmarks</loc>
+    <loc>https://cagataytanyildiz.com/bookmarks</loc>
   </url><url>
-    <loc>http://localhost:4000/contact</loc>
+    <loc>https://cagataytanyildiz.com/contact</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/now</loc>
+    <loc>https://cagataytanyildiz.com/blog/now</loc>
   </url><url>
-    <loc>http://localhost:4000/now</loc>
+    <loc>https://cagataytanyildiz.com/now</loc>
   </url><url>
-    <loc>http://localhost:4000/portfolio</loc>
+    <loc>https://cagataytanyildiz.com/portfolio</loc>
   </url><url>
-    <loc>http://localhost:4000/rss</loc>
+    <loc>https://cagataytanyildiz.com/rss</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/tags</loc>
+    <loc>https://cagataytanyildiz.com/blog/tags</loc>
   </url>
 
 </urlset>
