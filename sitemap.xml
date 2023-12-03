@@ -5,6 +5,8 @@
   </url>
 
 <url>
+    <loc>http://localhost:4000/bookmarks/11</loc>
+  </url><url>
     <loc>http://localhost:4000/bookmarks/9</loc>
   </url><url>
     <loc>http://localhost:4000/bookmarks/8</loc>
