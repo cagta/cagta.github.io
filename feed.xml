@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-03T12:00:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">çağatay tanyildiz</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/11" rel="alternate" type="text/html" title="" /><published>2023-12-03T11:43:00+01:00</published><updated>2023-12-03T11:43:00+01:00</updated><id>http://localhost:4000/bookmarks/11</id><content type="html" xml:base="http://localhost:4000/bookmarks/11">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-07T18:34:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">çağatay tanyildiz</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/12" rel="alternate" type="text/html" title="" /><published>2024-01-07T18:22:00+01:00</published><updated>2024-01-07T18:22:00+01:00</updated><id>http://localhost:4000/bookmarks/12</id><content type="html" xml:base="http://localhost:4000/bookmarks/12">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://ohadravid.github.io/posts/2023-03-rusty-python/&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://ohadravid.github.io/2023-03-rusty-python-profs/profiler-preview.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://ohadravid.github.io/posts/2023-03-rusty-python/&quot; target=&quot;_blank&quot;&gt;Making Python 100x faster with less than 100 lines of Rust&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Ohad's blog&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//ohadravid.github.io&quot; target=&quot;_blank&quot;&gt;ohadravid.github.io&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://live.wearedevelopers.com/magazine/software-development-workflow-tips&quot; target=&quot;_blank&quot;&gt;Top 7 Software Development Workflow Tips I Wish I Knew Earlier&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Wondering how you can speed up your work? In this article, Jordan shares his tips on increasing his software development workflow.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//live.wearedevelopers.com&quot; target=&quot;_blank&quot;&gt;live.wearedevelopers.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://danluu.com/wat/&quot; target=&quot;_blank&quot;&gt;Normalization of deviance&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Have you ever mentioned something that seems totally normal to you only to be greeted by surprise? Happens to me all the time when I describe something everyone at work thinks is normal. For some reason, my conversation partner's face morphs from pleasant smile to rictus of horror. Here are a few representative examples.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//danluu.com&quot; target=&quot;_blank&quot;&gt;danluu.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://cacm.acm.org/magazines/2023/11/277433-is-tinyml-sustainable/abstract&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://cacm.acm.org/system/assets/0004/6485/101723_CACMpg69_Is-TinyML1.large.jpg?1697490492&amp;amp;1697490492&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://cacm.acm.org/magazines/2023/11/277433-is-tinyml-sustainable/abstract&quot; target=&quot;_blank&quot;&gt;Is TinyML Sustainable?&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Assessing the environmental impacts of machine learning on microcontrollers.
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//cacm.acm.org&quot; target=&quot;_blank&quot;&gt;cacm.acm.org&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://miro.medium.com/v2/resize:fit:970/1*-7bzkDSy1LUNcgPDFCqaHg.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c&quot; target=&quot;_blank&quot;&gt;My favorite coding question to give candidates&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;A coding question, from the viewpoint of an Google/Amazon/Microsoft interviewer&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//carloarg02.medium.com&quot; target=&quot;_blank&quot;&gt;carloarg02.medium.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Making Python 100x faster with less than 100 lines of Rust Ohad's blog ohadravid.github.io Top 7 Software Development Workflow Tips I Wish I Knew Earlier Wondering how you can speed up your work? In this article, Jordan shares his tips on increasing his software development workflow. live.wearedevelopers.com Normalization of deviance Have you ever mentioned something that seems totally normal to you only to be greeted by surprise? Happens to me all the time when I describe something everyone at work thinks is normal. For some reason, my conversation partner's face morphs from pleasant smile to rictus of horror. Here are a few representative examples. danluu.com Is TinyML Sustainable? Assessing the environmental impacts of machine learning on microcontrollers. cacm.acm.org My favorite coding question to give candidates A coding question, from the viewpoint of an Google/Amazon/Microsoft interviewer carloarg02.medium.com</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/11" rel="alternate" type="text/html" title="" /><published>2023-12-03T11:43:00+01:00</published><updated>2023-12-03T11:43:00+01:00</updated><id>http://localhost:4000/bookmarks/11</id><content type="html" xml:base="http://localhost:4000/bookmarks/11">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
   &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
     &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
       &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
@@ -320,27 +419,7 @@ test coverage and minimizing dead code.
       &lt;a href=&quot;//pikuma.com&quot; target=&quot;_blank&quot;&gt;pikuma.com&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Oversimplified History of Retro Game Consoles for Programmers As game developers, we can learn a lot from the past. Let's look at the history of game consoles to understand the driving forces that helped shape the modern gamedev technologies we use today. pikuma.com</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/4" rel="alternate" type="text/html" title="" /><published>2023-09-24T19:58:00+02:00</published><updated>2023-09-24T19:58:00+02:00</updated><id>http://localhost:4000/bookmarks/4</id><content type="html" xml:base="http://localhost:4000/bookmarks/4">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
-  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
-    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
-      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
-        &lt;a href=&quot;https://arslan.io/2023/05/10/the-benefits-of-using-a-single-init-lua-vimrc-file/&quot; target=&quot;_blank&quot;&gt;
-          &lt;img src=&quot;https://arslan.io/content/images/2023/05/ss-2023-05-10-161451.png&quot; /&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
-        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
-          &lt;a href=&quot;https://arslan.io/2023/05/10/the-benefits-of-using-a-single-init-lua-vimrc-file/&quot; target=&quot;_blank&quot;&gt;The benefits of using a single configuration file&lt;/a&gt;
-        &lt;/h2&gt;
-        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Using a single init.lua or vimrc configuration file for (Neo)Vim file is better than a multi folder/file layout approach. Let me tell why that is the case.&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
-      &lt;a href=&quot;//arslan.io&quot; target=&quot;_blank&quot;&gt;arslan.io&lt;/a&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">The benefits of using a single configuration file Using a single init.lua or vimrc configuration file for (Neo)Vim file is better than a multi folder/file layout approach. Let me tell why that is the case. arslan.io</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/3" rel="alternate" type="text/html" title="" /><published>2023-09-24T19:58:00+02:00</published><updated>2023-09-24T19:58:00+02:00</updated><id>http://localhost:4000/bookmarks/3</id><content type="html" xml:base="http://localhost:4000/bookmarks/3">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Oversimplified History of Retro Game Consoles for Programmers As game developers, we can learn a lot from the past. Let's look at the history of game consoles to understand the driving forces that helped shape the modern gamedev technologies we use today. pikuma.com</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/3" rel="alternate" type="text/html" title="" /><published>2023-09-24T19:58:00+02:00</published><updated>2023-09-24T19:58:00+02:00</updated><id>http://localhost:4000/bookmarks/3</id><content type="html" xml:base="http://localhost:4000/bookmarks/3">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
   &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
     &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
       &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
@@ -360,7 +439,33 @@ test coverage and minimizing dead code.
       &lt;a href=&quot;//blog.warrant.dev&quot; target=&quot;_blank&quot;&gt;blog.warrant.dev&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Why Google Zanzibar Shines at Building Authorization | Warrant Blog Over the last couple years, authorization (AKA “authz”) has become a hot topic of debate. Proponents of various authz frameworks, libraries, and philosophies have voiced their opinions on how it should be implemented, jockeying for position to become the de facto way to implement authz. Among the contestants in this debate, Google’s Zanzibar has recently emerged as a popular way of not only modeling and enforcing authorization for modern, fine grained use cases, but also of scaling to meet the requirements of today’s large-scale, cloud-native applications. blog.warrant.dev</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/2" rel="alternate" type="text/html" title="" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/bookmarks/2</id><content type="html" xml:base="http://localhost:4000/bookmarks/2">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Why Google Zanzibar Shines at Building Authorization | Warrant Blog Over the last couple years, authorization (AKA “authz”) has become a hot topic of debate. Proponents of various authz frameworks, libraries, and philosophies have voiced their opinions on how it should be implemented, jockeying for position to become the de facto way to implement authz. Among the contestants in this debate, Google’s Zanzibar has recently emerged as a popular way of not only modeling and enforcing authorization for modern, fine grained use cases, but also of scaling to meet the requirements of today’s large-scale, cloud-native applications. blog.warrant.dev</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/4" rel="alternate" type="text/html" title="" /><published>2023-09-24T19:58:00+02:00</published><updated>2023-09-24T19:58:00+02:00</updated><id>http://localhost:4000/bookmarks/4</id><content type="html" xml:base="http://localhost:4000/bookmarks/4">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://arslan.io/2023/05/10/the-benefits-of-using-a-single-init-lua-vimrc-file/&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://arslan.io/content/images/2023/05/ss-2023-05-10-161451.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://arslan.io/2023/05/10/the-benefits-of-using-a-single-init-lua-vimrc-file/&quot; target=&quot;_blank&quot;&gt;The benefits of using a single configuration file&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Using a single init.lua or vimrc configuration file for (Neo)Vim file is better than a multi folder/file layout approach. Let me tell why that is the case.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//arslan.io&quot; target=&quot;_blank&quot;&gt;arslan.io&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">The benefits of using a single configuration file Using a single init.lua or vimrc configuration file for (Neo)Vim file is better than a multi folder/file layout approach. Let me tell why that is the case. arslan.io</summary></entry><entry><title type="html">adding bookmarks</title><link href="http://localhost:4000/blog/adding-bookmarks" rel="alternate" type="text/html" title="adding bookmarks" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/blog/now-adding-bookmarks</id><content type="html" xml:base="http://localhost:4000/blog/adding-bookmarks">&lt;p&gt;this one would be a short update from me. from now on, i decided to keep the resources i like as bookmarks in my website rather than sharing it elsewhere. i also added those to my site’s rss, so you should be able to track them easily.&lt;/p&gt;
+
+&lt;p&gt;the main motivations behind this change are;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;i don’t want to trigger my lizard brain with likes, endorsements etc. that social media sites built on,&lt;/li&gt;
+  &lt;li&gt;i still want to share things that i think worth it, as long as those do not comprimise me.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>çağatay</name></author><category term="essays" /><category term="now" /><summary type="html">this one would be a short update from me. from now on, i decided to keep the resources i like as bookmarks in my website rather than sharing it elsewhere. i also added those to my site’s rss, so you should be able to track them easily.</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/2" rel="alternate" type="text/html" title="" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/bookmarks/2</id><content type="html" xml:base="http://localhost:4000/bookmarks/2">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
   &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
     &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
       &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
@@ -400,13 +505,7 @@ test coverage and minimizing dead code.
       &lt;a href=&quot;//patrickhalina.com&quot; target=&quot;_blank&quot;&gt;patrickhalina.com&lt;/a&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Systems Design Interview Guide · Patrick Halina Systems design interviews are hard! Here's my high level advice for distributed systems and machine learning design questions. patrickhalina.com</summary></entry><entry><title type="html">adding bookmarks</title><link href="http://localhost:4000/blog/adding-bookmarks" rel="alternate" type="text/html" title="adding bookmarks" /><published>2023-09-23T20:55:00+02:00</published><updated>2023-09-23T20:55:00+02:00</updated><id>http://localhost:4000/blog/now-adding-bookmarks</id><content type="html" xml:base="http://localhost:4000/blog/adding-bookmarks">&lt;p&gt;this one would be a short update from me. from now on, i decided to keep the resources i like as bookmarks in my website rather than sharing it elsewhere. i also added those to my site’s rss, so you should be able to track them easily.&lt;/p&gt;
-
-&lt;p&gt;the main motivations behind this change are;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;i don’t want to trigger my lizard brain with likes, endorsements etc. that social media sites built on,&lt;/li&gt;
-  &lt;li&gt;i still want to share things that i think worth it, as long as those do not comprimise me.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>çağatay</name></author><category term="essays" /><category term="now" /><summary type="html">this one would be a short update from me. from now on, i decided to keep the resources i like as bookmarks in my website rather than sharing it elsewhere. i also added those to my site’s rss, so you should be able to track them easily.</summary></entry><entry><title type="html">i’m trying to stay sane.</title><link href="http://localhost:4000/blog/trying-to-be-sane" rel="alternate" type="text/html" title="i’m trying to stay sane." /><published>2023-02-14T21:29:00+01:00</published><updated>2023-02-14T21:29:00+01:00</updated><id>http://localhost:4000/blog/now-im-trying-to-stay-sane</id><content type="html" xml:base="http://localhost:4000/blog/trying-to-be-sane">&lt;p&gt;this is the 9th day of the &lt;a href=&quot;https://en.wikipedia.org/wiki/2023_turkey%e2%80%93syria_earthquake&quot;&gt;disaster&lt;/a&gt; in my lovely country. i don’t how to feel about it anymore. it was not a surprise to us, as we had lots of similar disasters before. however, we were as unprepared as we were at the previous ones. nowadays, i have mixed feelings. my family is also affected very much not physically but mentally. i’m grateful that at least the harm was only mental. but there are still a lot of unknowns for my family on the horizon. however, i have nothing to do about it thanks to my family’s stubbornness and the patriarchal culture that craved in their bones. so to manage this burden in my inner self, i’m trying to focus on the books that i’m currently reading.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Systems Design Interview Guide · Patrick Halina Systems design interviews are hard! Here's my high level advice for distributed systems and machine learning design questions. patrickhalina.com</summary></entry><entry><title type="html">i’m trying to stay sane.</title><link href="http://localhost:4000/blog/trying-to-be-sane" rel="alternate" type="text/html" title="i’m trying to stay sane." /><published>2023-02-14T21:29:00+01:00</published><updated>2023-02-14T21:29:00+01:00</updated><id>http://localhost:4000/blog/now-im-trying-to-stay-sane</id><content type="html" xml:base="http://localhost:4000/blog/trying-to-be-sane">&lt;p&gt;this is the 9th day of the &lt;a href=&quot;https://en.wikipedia.org/wiki/2023_turkey%e2%80%93syria_earthquake&quot;&gt;disaster&lt;/a&gt; in my lovely country. i don’t how to feel about it anymore. it was not a surprise to us, as we had lots of similar disasters before. however, we were as unprepared as we were at the previous ones. nowadays, i have mixed feelings. my family is also affected very much not physically but mentally. i’m grateful that at least the harm was only mental. but there are still a lot of unknowns for my family on the horizon. however, i have nothing to do about it thanks to my family’s stubbornness and the patriarchal culture that craved in their bones. so to manage this burden in my inner self, i’m trying to focus on the books that i’m currently reading.&lt;/p&gt;
 
 &lt;p&gt;i’d like to share following quote from it which i can relate a lot. this is how i define my profession:&lt;/p&gt;
 
@@ -692,22 +791,4 @@ author: cagatay tanyildiz &amp;lt;cagta@mail.com&amp;gt;
 
 &lt;p&gt;this motivation can show itself in different formats. it can be a blog post, a podcast episode, or a video tutorial, etc. all of these are valuable resources for me. since i feel like this about them, it’s easy to start work on them. you know everything comes with a price even if they seem free to you. i’m not talking about the money, it’s way valuable than money. it’s irreversible when you are willing to pay. it’s time! if you are paying something with your time, it has to be meaningful for yourself. it has to be something you care about.&lt;/p&gt;
 
-&lt;p&gt;i like to read quality blogs, like to listen to quality podcasts, like to follow quality workshops. these are enhancing my vision, i care about them. since they are valuable to me, i’m trying to produce similar quality content to enhance this world. in this way, i believe i’m helping myself, my inner circle of friends, and of course the people who want to make a difference in its life.&lt;/p&gt;</content><author><name>çağatay</name></author><category term="essays" /><category term="podcast" /><category term="english" /><summary type="html">i’m taking my learning seriously. i’m putting significant time to optimize my learning resources, gathering quality information all over the internet, and so on. while doing this, i’m mostly using free resources. there is soo much quality stuff on the internet that helps me to be a better version of myself. however, i feel like i have to pay for this generosity. in some cases, that can be money but most of the time it’s not about that.</summary></entry><entry><title type="html">the challenge</title><link href="http://localhost:4000/blog/the-challenge" rel="alternate" type="text/html" title="the challenge" /><published>2020-07-03T10:31:00+02:00</published><updated>2020-07-03T10:31:00+02:00</updated><id>http://localhost:4000/blog/the-challenge</id><content type="html" xml:base="http://localhost:4000/blog/the-challenge">&lt;p&gt;what is the challenge? is it logical to seek a challenge? according to &lt;a href=&quot;https://www.oxfordlearnersdictionaries.com/definition/english/challenge_1?q=challenge&quot;&gt;oxford leaner’s dictionary&lt;/a&gt;, the challenge is a new or difficult task that tests somebody’s ability and skill. so if a task or situation is new for us or difficult we can say that it’s challenging.&lt;/p&gt;
-
-&lt;p&gt;if we think about the software world, which is the business world that i’m a member of, the new can not be possible all the time in terms of technology that is used for developing a particular project. however, within the scope of the same project, we can discover some other new both for us or for our colleagues. it can be a way of processing our input, it can be a way of presenting our results or even the data itself. options are endless or at least seem endless. but in reality, that’s not the case.&lt;/p&gt;
-
-&lt;p&gt;what i see, the managers tend to give similar tasks to similar persons. there is no room for interchangeability within teams unless there is a strict requirement like unexpected leaves or some health emergencies. when you choose to apply this, the productivity and the quality can be increased within a short period. what about in the long run? don’t think so.&lt;/p&gt;
-
-&lt;p&gt;the new will change for those folks, after a while, it will become boring. at that point, they won’t have any interest in the task and they can perform the task as simple as blink. now as a manager you have two options, either you can change the subjects of the tasks for that particular person and assign him/her as a mentor to another person which is going to take over these kinds of tasks from him/her or you can keep bombarding the same folk with similar tasks. the first approach is ideal for me, but most of the time what i see is the second option. the reason? we can’t wait for others to learn, we have a strict timeline, the customer can’t wait… you named it. these are the lifesaver’s of managers, you can apply them in any situation. if any unexpected request cames from your manager don’t even bother to ask, pick one of these from above it’s more likely applicable to your situation :) hey yo, what’s wrong with the first approach? for some, there is nothing wrong with it. they love repetitive tasks. but for me, it’s a total disaster.&lt;/p&gt;
-
-&lt;p&gt;let me share with you a lesson and a curse that i took/gained while i’m preparing my thesis for graduation. i was developing a system for getting benchmarks of a collaborative clustering algorithm for iot boards in terms of battery time, energy consumption, etc. that was the third time i wrote my thesis and i asked my professor ali gokhan yavuz: ‘professor, this the third time that i wrote this thesis, isn’t that enough?’. he asked ‘is it hard for you?’ then i replied ‘yes, sir i’m tired to do that.’ and he said, ‘good, very good. that means you are learning. remember, if you are not being tired at the end that means you are not learning, you are just repeating yourself.’&lt;/p&gt;
-
-&lt;p&gt;after that day, i never forget that lesson and never complained about any necessary workload while learning. and i always resist to repeat myself. even if it cost me employment… most of the time my closest friends and member of the family are asking why i’m leaving some of the greatest companies(!) within the region? the answer is simple, i’m seeking a challenge. i have to learn new things all the time. otherwise, there is no point in being an engineer for me. i can be a civil servant or technician. don’t get me wrong, i’m not saying this is right and the other is wrong. we need diversity, we should embrace it. if there is a person who is trying to challenge himself/herself we should open his/her way through new challenges and if there is a person who likes to perform a repetitive task and happy about it then don’t expect them to be different. sometimes, management can afraid taking of the new challenges which brings risks with them. but without it, there is no gain and development!&lt;/p&gt;
-
-&lt;p&gt;i think that’s the main difference between leaders and managers. the managers tend to handle the requirements with acceptable results and the team is just an instrument for it. however, the leaders know their team and let them go beyond expectations. they don’t create obstacles like managers did, they clear the way for their team.&lt;/p&gt;
-
-&lt;p&gt;the challenge is a requirement for me. for others, it can be unwanted. just embrace diversity.&lt;/p&gt;
-
-&lt;iframe width=&quot;600&quot; height=&quot;350&quot; src=&quot;https://www.youtube.com/embed/p12geY4bQWM?controls=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;ps: most of my comments can seem like valid within the turkish business world if you consider that i’m a member of different international teams since graduation i think the scope of my comments may include valid parts in general.&lt;/p&gt;</content><author><name>çağatay</name></author><category term="essays" /><category term="personal" /><category term="english" /><summary type="html">what is the challenge? is it logical to seek a challenge? according to oxford leaner’s dictionary, the challenge is a new or difficult task that tests somebody’s ability and skill. so if a task or situation is new for us or difficult we can say that it’s challenging.</summary></entry></feed>
+&lt;p&gt;i like to read quality blogs, like to listen to quality podcasts, like to follow quality workshops. these are enhancing my vision, i care about them. since they are valuable to me, i’m trying to produce similar quality content to enhance this world. in this way, i believe i’m helping myself, my inner circle of friends, and of course the people who want to make a difference in its life.&lt;/p&gt;</content><author><name>çağatay</name></author><category term="essays" /><category term="podcast" /><category term="english" /><summary type="html">i’m taking my learning seriously. i’m putting significant time to optimize my learning resources, gathering quality information all over the internet, and so on. while doing this, i’m mostly using free resources. there is soo much quality stuff on the internet that helps me to be a better version of myself. however, i feel like i have to pay for this generosity. in some cases, that can be money but most of the time it’s not about that.</summary></entry></feed>

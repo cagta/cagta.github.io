@@ -1,4 +1,103 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed/bookmarks.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-03T12:00:49+01:00</updated><id>http://localhost:4000/feed/bookmarks.xml</id><title type="html">çağatay tanyildiz | Bookmarks</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/11" rel="alternate" type="text/html" title="" /><published>2023-12-03T11:43:00+01:00</published><updated>2023-12-03T11:43:00+01:00</updated><id>http://localhost:4000/bookmarks/11</id><content type="html" xml:base="http://localhost:4000/bookmarks/11">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed/bookmarks.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-07T18:34:17+01:00</updated><id>http://localhost:4000/feed/bookmarks.xml</id><title type="html">çağatay tanyildiz | Bookmarks</title><subtitle>çağatay's personal website</subtitle><author><name>çağatay</name></author><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/12" rel="alternate" type="text/html" title="" /><published>2024-01-07T18:22:00+01:00</published><updated>2024-01-07T18:22:00+01:00</updated><id>http://localhost:4000/bookmarks/12</id><content type="html" xml:base="http://localhost:4000/bookmarks/12">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://ohadravid.github.io/posts/2023-03-rusty-python/&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://ohadravid.github.io/2023-03-rusty-python-profs/profiler-preview.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://ohadravid.github.io/posts/2023-03-rusty-python/&quot; target=&quot;_blank&quot;&gt;Making Python 100x faster with less than 100 lines of Rust&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Ohad's blog&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//ohadravid.github.io&quot; target=&quot;_blank&quot;&gt;ohadravid.github.io&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://live.wearedevelopers.com/magazine/software-development-workflow-tips&quot; target=&quot;_blank&quot;&gt;Top 7 Software Development Workflow Tips I Wish I Knew Earlier&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Wondering how you can speed up your work? In this article, Jordan shares his tips on increasing his software development workflow.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//live.wearedevelopers.com&quot; target=&quot;_blank&quot;&gt;live.wearedevelopers.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://danluu.com/wat/&quot; target=&quot;_blank&quot;&gt;Normalization of deviance&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Have you ever mentioned something that seems totally normal to you only to be greeted by surprise? Happens to me all the time when I describe something everyone at work thinks is normal. For some reason, my conversation partner's face morphs from pleasant smile to rictus of horror. Here are a few representative examples.&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//danluu.com&quot; target=&quot;_blank&quot;&gt;danluu.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://cacm.acm.org/magazines/2023/11/277433-is-tinyml-sustainable/abstract&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://cacm.acm.org/system/assets/0004/6485/101723_CACMpg69_Is-TinyML1.large.jpg?1697490492&amp;amp;1697490492&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://cacm.acm.org/magazines/2023/11/277433-is-tinyml-sustainable/abstract&quot; target=&quot;_blank&quot;&gt;Is TinyML Sustainable?&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;Assessing the environmental impacts of machine learning on microcontrollers.
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//cacm.acm.org&quot; target=&quot;_blank&quot;&gt;cacm.acm.org&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
+  &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
+    &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
+      &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
+        &lt;a href=&quot;https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c&quot; target=&quot;_blank&quot;&gt;
+          &lt;img src=&quot;https://miro.medium.com/v2/resize:fit:970/1*-7bzkDSy1LUNcgPDFCqaHg.png&quot; /&gt;
+        &lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;jekyll-linkpreview-body&quot;&gt;
+        &lt;h2 class=&quot;jekyll-linkpreview-title&quot;&gt;
+          &lt;a href=&quot;https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c&quot; target=&quot;_blank&quot;&gt;My favorite coding question to give candidates&lt;/a&gt;
+        &lt;/h2&gt;
+        &lt;div class=&quot;jekyll-linkpreview-description&quot;&gt;A coding question, from the viewpoint of an Google/Amazon/Microsoft interviewer&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;jekyll-linkpreview-footer&quot;&gt;
+      &lt;a href=&quot;//carloarg02.medium.com&quot; target=&quot;_blank&quot;&gt;carloarg02.medium.com&lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name>çağatay</name></author><category term="bookmarks" /><summary type="html">Making Python 100x faster with less than 100 lines of Rust Ohad's blog ohadravid.github.io Top 7 Software Development Workflow Tips I Wish I Knew Earlier Wondering how you can speed up your work? In this article, Jordan shares his tips on increasing his software development workflow. live.wearedevelopers.com Normalization of deviance Have you ever mentioned something that seems totally normal to you only to be greeted by surprise? Happens to me all the time when I describe something everyone at work thinks is normal. For some reason, my conversation partner's face morphs from pleasant smile to rictus of horror. Here are a few representative examples. danluu.com Is TinyML Sustainable? Assessing the environmental impacts of machine learning on microcontrollers. cacm.acm.org My favorite coding question to give candidates A coding question, from the viewpoint of an Google/Amazon/Microsoft interviewer carloarg02.medium.com</summary></entry><entry><title type="html"></title><link href="http://localhost:4000/bookmarks/11" rel="alternate" type="text/html" title="" /><published>2023-12-03T11:43:00+01:00</published><updated>2023-12-03T11:43:00+01:00</updated><id>http://localhost:4000/bookmarks/11</id><content type="html" xml:base="http://localhost:4000/bookmarks/11">&lt;div class=&quot;jekyll-linkpreview-wrapper&quot;&gt;
   &lt;div class=&quot;jekyll-linkpreview-wrapper-inner&quot;&gt;
     &lt;div class=&quot;jekyll-linkpreview-content&quot;&gt;
       &lt;div class=&quot;jekyll-linkpreview-image&quot;&gt;
