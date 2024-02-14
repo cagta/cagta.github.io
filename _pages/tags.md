@@ -9,8 +9,6 @@ permalink: /blog/tags
 <h2 id="categories">categories</h2>
 <div class="tag-list">
 <a href="/blog">essays ({{ site.categories.essays | size }})</a>
-<a href="/blog/now">now ({{ site.categories.now | size }})</a>
-<a href="/notes">recent notes</a>
 <a href="/bookmarks">bookmarks</a>
 </div>
 

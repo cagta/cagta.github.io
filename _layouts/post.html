@@ -5,7 +5,7 @@
 <article>
 
 <header>
-	<h1 class="post-title">{%- if page.nowPage -%}{{ site.categories.now[0].title }}{%- else -%}{{ page.title }}{%- endif -%}</h1>
+	<h1 class="post-title">{{ page.title }}</h1>
 	<p class="post-author-and-time">
 	<a href="/" title="home" rel="author" class="internal-link">çağatay tanyıldız</a>
 	{%- unless page.category contains "english-guide" -%}
@@ -13,9 +13,6 @@
 	{%- unless page.custom-date %}{{ postDate | date: "%B" | downcase }} {{prettyDateOfPost}}{{ ordinalEnding }}, {{ postDate | date: "%Y" }}{%- else -%}{{ page.custom-date }}{%- endunless -%}</time>{% endunless %}</p>
 </header>
 
-{%- if page.categories contains "now" -%}
-	{%- include now-blurb.html -%}
-{%- endif -%}
 
 {%- if page.categories contains "rss-club" -%}
 	{%- include rss-plug.html -%}
@@ -25,9 +22,6 @@
 
 </article>
 
-{%- if page.categories contains "now" -%}
-	{%- include now-listing.html -%}
-{%- endif -%}
 
 </main>
 

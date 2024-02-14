@@ -26,16 +26,9 @@ the blog post listing.
 {%- endif -%}
 
 
-{% comment %}
-The conditional makes the first now post link to /now instead of the post permalink.  
-{% endcomment %}
 
 
-{%- if post.category == "now" and site.categories.now[0] == post -%}
-	{% assign LinkToPost = "/now" %}
-{% else %}
-	{% assign LinkToPost = post.url %}
-{% endif %}
+{% assign LinkToPost = post.url %}
 
 
 

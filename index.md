@@ -3,30 +3,20 @@ og-type: website
 layout: index
 index: true
 ---
-
-hey there 👋
-
-i'm just an ordinary human being, software crafter and coffee lover. 
-<a href="/about" class="internal-link quarter-line-space">about me&nbsp;→</a>
-
-<!-- things that are not long, like blog posts but still have some value in them.
-<a href="/notes" class="internal-link quarter-line-space">Go to my notes&nbsp;→</a> -->
-
-things that I like from internet.
-<a href="/bookmarks" class="internal-link quarter-line-space">my bookmarks&nbsp;→</a>
-
-short updates from me
-<a href="/blog/now" class="internal-link quarter-line-space">my updates&nbsp;→</a>
-
-longer stories from me; tips, travels, and frustrations.
+on software, life and more
 <a href="/blog" class="internal-link quarter-line-space">my blog&nbsp;→</a>
+
+worth to share
+<a href="/bookmarks" class="internal-link quarter-line-space">bookmarks&nbsp;→</a>
 
 <!-- Keep your about page about you rather than your job with a portfolio page. 
 <a href="/portfolio" class="internal-link quarter-line-space">View my portfolio&nbsp;→</a> -->
 
-feel free to get in [touch](/contact): i enjoy feedback, comments and questions. 
+reach 
+<a href="/contact" class="internal-link quarter-line-space">contact&nbsp;→</a>
 
-follow with [rss](/rss).
+follow
+<a href="/rss" class="internal-link quarter-line-space">rss&nbsp;→</a>
 
 <!-- Add you Mastodon handle here if you want to verify it
 	

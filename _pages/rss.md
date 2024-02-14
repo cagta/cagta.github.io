@@ -8,6 +8,6 @@ permalink: /rss
 if you’re new to rss, [check out this guide](https://derekkedziora.com/blog/rss-guide).
 
 
-the [everything feed](/feed.xml) contains, well, everything including new posts, notes and bookmarks. 
+the [everything feed](/feed.xml) contains, well, everything including new posts and bookmarks. 
 
 [this feed](/feed/essays.xml) contains only posts. 

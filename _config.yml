@@ -66,8 +66,6 @@ feed:
   posts_limit: 25
   categories:
     - essays
-    - notes
-    - now
     - bookmarks
 
 include:

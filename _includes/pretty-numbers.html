@@ -1,10 +1,6 @@
-{%- unless page.nowPage -%}
-	{%- assign dateOfPost = {{page.date | date: "%d"}} -%}
-	{%- assign postDate = page.date -%}
-{%- else -%}
-	{%- assign dateOfPost = site.categories.now[0].date | date: "%d" -%}
-	{%- assign postDate = site.categories.now[0].date -%}
-{%- endunless -%}
+{%- assign dateOfPost = {{page.date | date: "%d"}} -%}
+{%- assign postDate = page.date -%}
+
 
 {%- if dateOfPost == "01" or dateOfPost == "21" or dateOfPost == "31" -%}
 	{%- assign ordinalEnding = "st" -%}

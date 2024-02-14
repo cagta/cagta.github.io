@@ -2,16 +2,13 @@
 title: bookmarks
 layout: page
 permalink: /bookmarks
-nav: custom
-custom-nav: 
-    - '<a href="/about" title="about">about</a>'
 ---
 
 <div class="callout" markdown="1">
 
 ## What are bookmarks?
 
-This is what I like from the internet. The best way to follow is via [the RSS feed](/rss).
+things i like from here and there. the best way to follow is [the rss feed](/rss).
 
 </div>
 
