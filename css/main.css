@@ -10,7 +10,7 @@
 
 :root { --body-font-size: 1.125rem; --line-height: 1.75rem; --h1-font-size: 1.5rem; --h2-font-size: 1.25rem; --small-font-size: 1rem; --quote-font-size: 1rem; }
 
-@media (max-width: 600px) { :root { --body-font-size: 1.125rem; --line-height: 1.575rem; --h1-font-size: 1.625rem; --h2-font-size: 1.375rem; --small-font-size: 1rem; --quote-font-size: 1rem; } .about-picture { padding: 5%; } }
+@media (max-width: 600px) { :root { --body-font-size: 1.125rem; --line-height: 1.575rem; --h1-font-size: 1.625rem; --h2-font-size: 1.375rem; --small-font-size: 1rem; --quote-font-size: 1rem; } }
 
 html { --box-background-color: hsl(240, 9%, 90%); --extra-light-text-color: hsl(240, 1%, 45%); --light-border-color: hsl(0, 0%, 90%); --light-text-color: hsl(240, 1%, 35%); --link-color: rgb(65, 110, 210); --main-background-color: white; --main-text-color: hsl(0, 0%, 10%); --underline-color: hsl(0, 0%, 50%); }
 
@@ -101,10 +101,6 @@ aside li, .callout li { margin: calc(.25 * var(--line-height)) 0 0 0; }
 .posts-by-tag .blog-listing-link { font-weight: 400; }
 
 .internal-link, .internal-link a { color: var(--light-text-color); font-size: var(--small-font-size); text-decoration: none; }
-
-.about-picture { float: right; margin: 0; padding: 1% 5% 5% 5%; width: clamp(100px, 200px, 50%); }
-
-.about-picture img { border: 1px solid var(--main-background-color); border-radius: 1%; }
 
 .copy-buttons { margin-top: calc(.5 * var(--line-height)); }
 

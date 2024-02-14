@@ -31,17 +31,9 @@
   </url><url>
     <loc>http://localhost:4000/bookmarks/3</loc>
   </url><url>
-    <loc>http://localhost:4000/blog/adding-bookmarks</loc>
-  </url><url>
     <loc>http://localhost:4000/bookmarks/2</loc>
   </url><url>
     <loc>http://localhost:4000/bookmarks/1</loc>
-  </url><url>
-    <loc>http://localhost:4000/blog/trying-to-be-sane</loc>
-  </url><url>
-    <loc>http://localhost:4000/blog/re-reading</loc>
-  </url><url>
-    <loc>http://localhost:4000/blog/changing-blog-design</loc>
   </url><url>
     <loc>http://localhost:4000/blog/cycling</loc>
   </url><url>
@@ -77,17 +69,11 @@
   </url>
 
 <url>
-    <loc>http://localhost:4000/about</loc>
-  </url><url>
     <loc>http://localhost:4000/blog</loc>
   </url><url>
     <loc>http://localhost:4000/bookmarks</loc>
   </url><url>
     <loc>http://localhost:4000/contact</loc>
-  </url><url>
-    <loc>http://localhost:4000/blog/now</loc>
-  </url><url>
-    <loc>http://localhost:4000/now</loc>
   </url><url>
     <loc>http://localhost:4000/portfolio</loc>
   </url><url>
