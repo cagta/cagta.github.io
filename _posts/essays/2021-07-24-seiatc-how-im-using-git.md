@@ -2,7 +2,7 @@
 title: seiatc - how i'm using git?
 description: "i can not praise git enough" 
 category: essays
-tags: technical english
+tags: technical corporate-life english
 permalink: /blog/seiatc-how-i-m-using-git
 date: 2021-07-24 10:31
 syntax: true

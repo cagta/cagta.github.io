@@ -22,6 +22,6 @@ things i like from here and there. the best way to follow is [the rss feed](/rss
 <p class="bookmarks-date-line"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%B %d, %Y" | downcase}}</time></p>
 </section>
 
-
+------------
 {% endfor %}
 

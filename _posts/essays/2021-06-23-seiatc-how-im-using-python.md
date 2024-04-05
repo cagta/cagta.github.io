@@ -2,7 +2,7 @@
 title: seiatc - how i'm using python?
 description: "python rocks!" 
 category: essays
-tags: technical english
+tags: technical corporate-life english
 permalink: /blog/seiatc-how-i-m-using-python
 date: 2021-06-23 10:31
 syntax: true

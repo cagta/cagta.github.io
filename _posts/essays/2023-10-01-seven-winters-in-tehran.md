@@ -2,7 +2,7 @@
 title: seven winters in tehran
 description: "human right problems" 
 category: essays
-tags: personal english
+tags: personal english movies
 permalink: /blog/seven-winters-in-tehran
 date: 2023-10-01 16:04
 syntax: true

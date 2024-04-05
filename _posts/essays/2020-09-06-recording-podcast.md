@@ -2,7 +2,7 @@
 title: recording podcast?
 description: "didn't last long, but i tried" 
 category: essays
-tags: podcast english
+tags: podcast english hobbies
 permalink: /blog/recording-podcast
 date: 2020-09-06 10:31
 syntax: true
